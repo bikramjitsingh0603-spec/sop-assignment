@@ -28,7 +28,7 @@ Connection Types:
 # 2. Logical Network Topology
 # Network Topology Diagram
 
-![Network Diagram](topoplogy.png)
+![Network Diagram](topology.png)
 
 The home network follows a star topology where all devices connect through a central wireless router.
 
